@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Blogs: [Medium](https://medium.com/@ayuthmang)
+
 <!--
 **ayuthmang/ayuthmang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
