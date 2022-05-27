@@ -3,8 +3,7 @@
 - 📖 Blogs: [Medium](https://medium.com/@ayuthmang) | [dev.to](https://dev.to/ayuthmang)
 - 📫 How to reach me: ayuth.mang@gmail.com
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayuthmang&left_color=red&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ayuthmang.visitor-badge&left_color=red&right_color=green)
 
 [![Ayuth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuthmang&show_icons=true&theme=dracula)](https://github.com/ayuthmang)
 
