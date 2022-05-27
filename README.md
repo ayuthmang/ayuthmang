@@ -3,6 +3,9 @@
 - 📖 Blogs: [Medium](https://medium.com/@ayuthmang) | [dev.to](https://dev.to/ayuthmang)
 - 📫 How to reach me: ayuth.mang@gmail.com
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ayuthmang&left_color=red&right_color=green)
+
 <!--
 **ayuthmang/ayuthmang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
